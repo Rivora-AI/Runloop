@@ -1,4 +1,4 @@
-# Runloop OSS
+# Runloop
 
 ## The safest way to let AI touch your infrastructure
 
